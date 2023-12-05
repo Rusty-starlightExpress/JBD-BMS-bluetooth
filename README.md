@@ -19,7 +19,7 @@ python3 jbdbms-4-socket-2temps.py -b A5:C2:37:04:EB:EE -i 5 -m liion-4s
 ----------------------------------------------------------------------------------------
 サブプログラム(生データからjsonファイル生成)
  - bt-jbd-4s.py
- - bt-jbd-8s.pyy
+ - bt-jbd-8s.py
  - bt-jbd-14s.py
 
 修正箇所
