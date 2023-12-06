@@ -14,7 +14,7 @@ JBD BMS and Thornwave bluetooth data monitoring<br>
 python3 bdbms-4-socket-1temp.py -b {ブルートゥースアドレス} -i {取得間隔(秒}) -m {任意名称}
 
 使用例：<br>
-python3 jbdbms-4-socket-2temps.py -b A5:C2:37:04:EB:EE -i 5 -m liion-4s
+python3 bdbms-14-socket-4temps.py -b A5:C2:37:04:EB:EE -i 5 -m liion48
 
 ----------------------------------------------------------------------------------------
 サブプログラム(生データからjsonファイル生成)
