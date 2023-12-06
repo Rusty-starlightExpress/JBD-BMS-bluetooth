@@ -30,7 +30,7 @@ python3 bdbms-14-socket-4temps.py -b A5:C2:37:04:EB:EE -i 5 -m liion48
 <pre>
 ####  Change Param ####
 DEVICE = "A5:C2:37:04:EB:FF" # Bluetooth Address
-BMSNAME= "liion48-1"         # BMS Name
+BMSNAME= "liion48"         # BMS Name
 
 FILENAME= str("/mnt/data/%s.json" % BMSNAME)  # File Location
 #####################3#
